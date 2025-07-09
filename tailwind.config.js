@@ -6,7 +6,7 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
+colors: {
         primary: "#4361ee",
         secondary: "#4895ef",
         accent: "#7209b7",
@@ -16,6 +16,11 @@ export default {
         info: "#4895ef",
         surface: "#ffffff",
         background: "#f8f9fa",
+        burgundy: "#581845",
+        crimson: "#900C3F",
+        coral: "#C70039",
+        'orange-bright': "#FF5733",
+        gold: "#FFC300",
       },
       fontFamily: {
         'display': ['Poppins', 'sans-serif'],
